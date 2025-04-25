@@ -1,2 +1,2 @@
-# programaci-n
+# programacion
 Clase de introducción a la programación
